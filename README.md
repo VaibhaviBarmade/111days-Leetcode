@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/0002-add-two-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
