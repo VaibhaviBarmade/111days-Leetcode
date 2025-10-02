@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/0162-find-peak-element) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
 |  |
