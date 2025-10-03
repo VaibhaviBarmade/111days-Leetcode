@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/0007-reverse-integer) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/VaibhaviBarmade/111days-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
